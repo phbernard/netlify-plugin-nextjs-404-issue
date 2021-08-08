@@ -1,0 +1,6 @@
+# Dummy rule
+
+[[redirects]]
+  from = "/some-path"
+  to = "/"
+  status = 301
